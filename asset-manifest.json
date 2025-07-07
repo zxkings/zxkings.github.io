@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5511531b.css",
-    "main.js": "/static/js/main.b83fd078.js",
+    "main.css": "/static/css/main.fb174722.css",
+    "main.js": "/static/js/main.326058c9.js",
     "static/media/portfolio.gif": "/static/media/portfolio.2d4f8cc945db20143116.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.decfdcb63165be4a18b6.svg",
     "static/media/profile.png": "/static/media/profile.55c6253ac7781ca2d886.png",
@@ -11,7 +11,6 @@
     "static/media/favicon_io.zip": "/static/media/favicon_io.35211d7bc746343e88be.zip",
     "static/media/android-chrome-512x512.png": "/static/media/android-chrome-512x512.6167b85cd15c75e3aee5.png",
     "static/media/web-app-manifest-512x512.png": "/static/media/web-app-manifest-512x512.6167b85cd15c75e3aee5.png",
-    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/dsc_logo.png": "/static/media/dsc_logo.33466a0f3aeaa379a80c.png",
     "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.d93bcbbb0fbfad39d905.eot",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.aae41ea25bd0dde9f796.ttf",
@@ -23,18 +22,11 @@
     "static/media/profile circle 400x400.png": "/static/media/profile circle 400x400.7646fc1458755f5e3120.png",
     "static/media/fa-brands-400.eot": "/static/media/fa-brands-400.b09f783b99c88d6989f7.eot",
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.ec7723ea62ad74c14959.ttf",
-    "static/media/GoogleSans-Italic.ttf": "/static/media/GoogleSans-Italic.40bb50bd202405745006.ttf",
-    "static/media/GoogleSans-MediumItalic.ttf": "/static/media/GoogleSans-MediumItalic.56d4f777a7997e5a10b3.ttf",
-    "static/media/GoogleSans-BoldItalic.ttf": "/static/media/GoogleSans-BoldItalic.d282e9c31d0f894a7f06.ttf",
-    "static/media/GoogleSans-Regular.ttf": "/static/media/GoogleSans-Regular.bec0591b6a291c3ca895.ttf",
-    "static/media/GoogleSans-Medium.ttf": "/static/media/GoogleSans-Medium.963c3e555aaada9ef8a9.ttf",
-    "static/media/GoogleSans-Bold.ttf": "/static/media/GoogleSans-Bold.d907e4bf3e32637a636e.ttf",
     "static/media/contactMail.png": "/static/media/contactMail.0bc4d3657ce3614bb1c5.png",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.344b08dcc111f1e556b6.png",
     "static/media/stanford_logo.png": "/static/media/stanford_logo.33fa3b87ec7280dc3612.png",
     "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.3ef4f1acb44a2df412bf.woff",
     "static/media/O__logo_DK.png": "/static/media/O__logo_DK.8dcda659fb3d565a3499.png",
-    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.4e39076ffaf46149fde6.png",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.a47995e0627e10c2eeee.png",
     "static/media/O__logo_WT.png": "/static/media/O__logo_WT.b650440fbc030111a862.png",
@@ -101,17 +93,18 @@
     "static/media/moon.svg": "/static/media/moon.e9852ed533af00b892b9444429b57708.svg",
     "static/media/education.svg": "/static/media/education.8b0258a1a86c19fe8f3be6bfddf2cfde.svg",
     "static/media/sun.svg": "/static/media/sun.db2717a27205cb9b42c356228b26e179.svg",
+    "static/media/PixelatedElegance.woff2": "/static/media/PixelatedElegance.72b045f85f0c06b0521d.woff2",
     "index.html": "/index.html",
     "static/media/favicon1.ico": "/static/media/favicon1.72acf0b2ce0dd1e4b59c.ico",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.3227e84a89a1650db619.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.6a48aa5b1199a0c0214f.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.31f4e73428eb4215e54a.svg",
     "static/media/site.webmanifest": "/static/media/site.1c337fa2fa1515591f8d.webmanifest",
-    "main.5511531b.css.map": "/static/css/main.5511531b.css.map",
-    "main.b83fd078.js.map": "/static/js/main.b83fd078.js.map"
+    "main.fb174722.css.map": "/static/css/main.fb174722.css.map",
+    "main.326058c9.js.map": "/static/js/main.326058c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.5511531b.css",
-    "static/js/main.b83fd078.js"
+    "static/css/main.fb174722.css",
+    "static/js/main.326058c9.js"
   ]
 }
